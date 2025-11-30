@@ -34,14 +34,14 @@
       <link>https://lopez-504.github.io/projects/project-a/</link>
       <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
       <guid>https://lopez-504.github.io/projects/project-a/</guid>
-      <description>&lt;p&gt;Content for project-a&lt;/p&gt;&#xA;&lt;p&gt;Testing path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Content for project-a&lt;/p&gt;&#xA;&lt;p&gt;Testing path: ../killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project B</title>
       <link>https://lopez-504.github.io/projects/project-b/</link>
       <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
       <guid>https://lopez-504.github.io/projects/project-b/</guid>
-      <description>&lt;p&gt;Content for project-b&lt;/p&gt;&#xA;&lt;p&gt;Testing path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Content for project-b&lt;/p&gt;&#xA;&lt;p&gt;Testing path: ../../killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux Things</title>
