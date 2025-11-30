@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage I hope on Jorge López Blog</title>
+    <title>Jorge L. | Software Development &amp; Learning on Jorge López Blog</title>
     <link>https://lopez-504.github.io/</link>
-    <description>Recent content in Homepage I hope on Jorge López Blog</description>
+    <description>Recent content in Jorge L. | Software Development &amp; Learning on Jorge López Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Nov 2025 19:58:29 -0300</lastBuildDate>
@@ -21,6 +21,27 @@
       <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
       <guid>https://lopez-504.github.io/posts/blog/</guid>
       <description>&lt;p&gt;content&lt;/p&gt;&#xA;&lt;p&gt;List of Papers &lt;a href=&#34;Papers/list-of-papers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Information</title>
+      <link>https://lopez-504.github.io/about/contact/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
+      <guid>https://lopez-504.github.io/about/contact/</guid>
+      <description>&lt;p&gt;Content for contact information&lt;/p&gt;&#xA;&lt;p&gt;Test path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project A</title>
+      <link>https://lopez-504.github.io/projects/project-a/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
+      <guid>https://lopez-504.github.io/projects/project-a/</guid>
+      <description>&lt;p&gt;Content for project-a&lt;/p&gt;&#xA;&lt;p&gt;Testing path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project B</title>
+      <link>https://lopez-504.github.io/projects/project-b/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
+      <guid>https://lopez-504.github.io/projects/project-b/</guid>
+      <description>&lt;p&gt;Content for project-b&lt;/p&gt;&#xA;&lt;p&gt;Testing path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux Things</title>

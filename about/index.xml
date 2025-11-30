@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Jorge Lopez on Jorge López Blog</title>
+    <link>https://lopez-504.github.io/about/</link>
+    <description>Recent content in About Jorge Lopez on Jorge López Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 10:52:23 -0300</lastBuildDate>
+    <atom:link href="https://lopez-504.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Information</title>
+      <link>https://lopez-504.github.io/about/contact/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
+      <guid>https://lopez-504.github.io/about/contact/</guid>
+      <description>&lt;p&gt;Content for contact information&lt;/p&gt;&#xA;&lt;p&gt;Test path: /killua1short.jpg&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://lopez-504.github.io/killua1short.jpg&#34; alt=&#34;killua&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
