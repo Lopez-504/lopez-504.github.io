@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Papers on Jorge López Blog</title>
+    <title>My Index on Jorge López Blog</title>
     <link>https://lopez-504.github.io/posts/</link>
-    <description>Recent content in Papers on Jorge López Blog</description>
+    <description>Recent content in My Index on Jorge López Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Nov 2025 19:58:29 -0300</lastBuildDate>
@@ -20,7 +20,7 @@
       <link>https://lopez-504.github.io/posts/blog/</link>
       <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
       <guid>https://lopez-504.github.io/posts/blog/</guid>
-      <description>&lt;p&gt;somethig blog&lt;/p&gt;</description>
+      <description>&lt;p&gt;content&lt;/p&gt;&#xA;&lt;p&gt;List of Papers &lt;a href=&#34;Papers/list-of-papers&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux Things</title>
