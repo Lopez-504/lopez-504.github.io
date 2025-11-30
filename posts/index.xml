@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jorge López Blog</title>
+    <title>Papers on Jorge López Blog</title>
     <link>https://lopez-504.github.io/posts/</link>
-    <description>Recent content in Posts on Jorge López Blog</description>
+    <description>Recent content in Papers on Jorge López Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Nov 2025 19:58:29 -0300</lastBuildDate>
@@ -14,6 +14,27 @@
       <pubDate>Sat, 29 Nov 2025 19:58:29 -0300</pubDate>
       <guid>https://lopez-504.github.io/posts/mypost/</guid>
       <description>&lt;h1 id=&#34;first-title&#34;&gt;First title&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some&lt;/li&gt;&#xA;&lt;li&gt;Bullets&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;subsection&#34;&gt;Subsection&lt;/h2&gt;&#xA;&lt;p&gt;more content&#xA;and inline $\Gamma_{\mu\nu}$&#xA;Also&lt;/p&gt;&#xA;&lt;p&gt;$$\Gamma_{\mu\nu}$$&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papers</title>
+      <link>https://lopez-504.github.io/posts/papers/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:30 -0300</pubDate>
+      <guid>https://lopez-504.github.io/posts/papers/</guid>
+      <description>&lt;p&gt;somethng paper&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://lopez-504.github.io/posts/blog/</link>
+      <pubDate>Sat, 29 Nov 2025 10:52:23 -0300</pubDate>
+      <guid>https://lopez-504.github.io/posts/blog/</guid>
+      <description>&lt;p&gt;somethig blog&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux Things</title>
+      <link>https://lopez-504.github.io/posts/linuxthings/linux-things/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://lopez-504.github.io/posts/linuxthings/linux-things/</guid>
+      <description>&lt;h1 id=&#34;linux-things&#34;&gt;Linux Things&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interesting little things I&amp;rsquo;ve learned as a full-time Linux user&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;common-idioms&#34;&gt;Common Idioms&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; and &lt;code&gt;||&lt;/code&gt; chaining idiom is one of those Bash tricks that makes scripts both concise and expressive. It’s basically a poor man’s &lt;code&gt;if&lt;/code&gt;, but elegant.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;[&lt;/code&gt; … &lt;code&gt;]&lt;/code&gt; is the Bash &lt;strong&gt;test&lt;/strong&gt; command.&lt;/li&gt;&#xA;&lt;li&gt;Here are some flags for this command:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;-r&lt;/code&gt; means file &lt;strong&gt;exists&lt;/strong&gt; and is &lt;strong&gt;readable&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-x&lt;/code&gt; same but executable&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-w&lt;/code&gt; same but writable&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; tests if something is a directory.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-f file&lt;/code&gt; → is a &lt;strong&gt;regular file&lt;/strong&gt; (not a directory, socket, etc.)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-e file&lt;/code&gt; → does the file &lt;strong&gt;exist&lt;/strong&gt; (any type)?&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-s file&lt;/code&gt; → file exists and has &lt;strong&gt;size &amp;gt; 0&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-L file&lt;/code&gt; → file is a &lt;strong&gt;symlink&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-h file&lt;/code&gt; → same as &lt;code&gt;-L&lt;/code&gt; (historical alias)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-O file&lt;/code&gt; → file is &lt;strong&gt;owned by the current user&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;-G file&lt;/code&gt; → file belongs to the user’s &lt;strong&gt;group&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;!&lt;/code&gt; negates a condition, as always&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; logic &lt;code&gt;and&lt;/code&gt; between 2 bash test commands&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;||&lt;/code&gt; logic &lt;code&gt;or&lt;/code&gt; between 2 bash test commands&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;ndash;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
